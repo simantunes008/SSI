@@ -1,0 +1,5 @@
+2024-04-06 18:36:54,372 - Transaction from user MSG_CLI2: started
+2024-04-06 18:37:04,333 - Transaction from user MSG_CLI2: send
+2024-04-06 18:37:07,223 - Transaction from user MSG_CLI2: askqueue
+2024-04-06 18:37:12,291 - Transaction from user MSG_CLI2: getmsg
+2024-04-06 18:37:14,820 - Transaction from user MSG_CLI2: finished
